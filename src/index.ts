@@ -1,3 +1,4 @@
+//export stuff from common module
 export * from './errors/bad-request-error';
 export * from './errors/custom-errors';
 export * from './errors/database-connection-error';
